@@ -45,7 +45,7 @@
         'homepage': ['s_cover', 's_text_image', 's_title', 's_three_columns', 's_call_to_action'],
     },
     'license': 'LGPL-3',
-    'live_test_url': 'https://theme-treehouse.odoo.com',
+    'live_test_url': 'https://treehouse.themes.bookm.be',
     'assets': {
         'website.assets_editor': [
             'theme_treehouse/static/src/js/tour.js',

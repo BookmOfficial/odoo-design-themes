@@ -26,7 +26,7 @@
     },
     'depends': ['theme_common'],
     'license': 'LGPL-3',
-    'live_test_url': 'https://theme-graphene.odoo.com',
+    'live_test_url': 'https://graphene.themes.bookm.be',
     'assets': {
         'website.assets_editor': [
             'theme_graphene/static/src/js/tour.js',
