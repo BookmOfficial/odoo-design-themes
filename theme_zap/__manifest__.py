@@ -40,7 +40,7 @@
         'homepage': ['s_banner', 's_three_columns', 's_color_blocks_2', 's_features', 's_masonry_block', 's_references'],
     },
     'license': 'LGPL-3',
-    'live_test_url': 'https://theme-zap.odoo.com',
+    'live_test_url': 'https://zap.themes.bookm.be',
     'assets': {
         'website.assets_editor': [
             'theme_zap/static/src/js/tour.js',
