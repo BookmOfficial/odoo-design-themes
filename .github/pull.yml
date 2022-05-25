@@ -1,7 +1,7 @@
 version: "1"
 rules:                      # Array of rules
   - base: "15.0"            # Required. Target branch
-    upstream: design-themes:15.0     # Required. Must be in the same fork network.
+    upstream: odoo-design-themes:15.0     # Required. Must be in the same fork network.
     mergeMethod: hardreset  # Optional, one of [none, merge, squash, rebase, hardreset], Default: none.
     mergeUnstable: false    # Optional, merge pull request even when the mergeable_state is not clean. Default: false
   - base: bm.develop.15.0
