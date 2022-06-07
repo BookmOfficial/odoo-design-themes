@@ -49,7 +49,7 @@
         'homepage': ['s_cover', 's_title', 's_company_team', 's_media_list', 's_images_wall', 's_quotes_carousel'],
     },
     'license': 'LGPL-3',
-    'live_test_url': 'https://theme-yes.odoo.com',
+    'live_test_url': 'https://yes.themes.bookm.be',
     'assets': {
         'website.assets_editor': [
             'theme_yes/static/src/js/tour.js',

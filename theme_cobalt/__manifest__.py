@@ -28,7 +28,7 @@
         'homepage': ['s_banner', 's_references', 's_text_image', 's_color_blocks_2', 's_images_wall'],
     },
     'license': 'LGPL-3',
-    'live_test_url': 'https://theme-cobalt.odoo.com',
+    'live_test_url': 'https://cobalt.themes.bookm.be',
     'assets': {
         'website.assets_editor': [
             'theme_cobalt/static/src/js/tour.js',

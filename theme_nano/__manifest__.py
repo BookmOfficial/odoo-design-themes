@@ -47,7 +47,7 @@
         'homepage': ['s_cover', 's_features', 's_text_block', 's_images_wall', 's_parallax', 's_references'],
     },
     'license': 'LGPL-3',
-    'live_test_url': 'https://theme-nano.odoo.com',
+    'live_test_url': 'https://nano.themes.bookm.be',
     'assets': {
         'website.assets_editor': [
             'theme_nano/static/src/js/tour.js',

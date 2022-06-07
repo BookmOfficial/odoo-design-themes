@@ -37,7 +37,7 @@
                      's_title', 's_media_list', 's_text_image'],
     },
     'license': 'LGPL-3',
-    'live_test_url': 'https://theme-monglia.odoo.com',
+    'live_test_url': 'https://monglia.themes.bookm.be',
     'assets': {
         'website.assets_editor': [
             'theme_monglia/static/src/js/tour.js',
